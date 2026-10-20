@@ -1,5 +1,7 @@
 ## Pablo Correa Prieto
 
+<img src="pablo-correa-prieto-portrait.jpg" alt="Pablo Correa Prieto" width="170" align="right">
+
 Enseignant primaire reconnu par la CDIP (3H–8H), remplaçant dans les écoles vaudoises. En parallèle, master en recherche en éducation à l’UNIR : éducation numérique et IA à l’école.
 
 **Recherche en cours**  
@@ -12,7 +14,7 @@ López Pérez, C., Correa Prieto, P. et Cabrera Santana, M. T. (2024). [*Las mat
 [Ce que l’IA change vraiment pour l’enseignant qui prépare et qui évalue](https://pablocorreaprieto.ch/ia-enseignant-preparer-evaluer) · 24 septembre 2026
 
 **Site et coordonnées** : [pablocorreaprieto.ch](https://pablocorreaprieto.ch/) · [English](https://pablocorreaprieto.ch/en/) · [Español](https://pablocorreaprieto.ch/es/)  
-**Profils** : [ORCID](https://orcid.org/0009-0009-1844-7453) · [Google Scholar](https://scholar.google.com/citations?user=N2vtvGcAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Pablo-Correa-Prieto) · [Academia.edu](https://universidadinternacionaldelarioja.academia.edu/PabloCorreaPrieto) · [OSF](https://osf.io/skvn4/) · [LinkedIn](https://www.linkedin.com/in/pablocorreaprieto)
+**Profils** : [ORCID](https://orcid.org/0009-0009-1844-7453) · [Google Scholar](https://scholar.google.com/citations?user=N2vtvGcAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Pablo-Correa-Prieto) · [Academia.edu](https://universidadinternacionaldelarioja.academia.edu/PabloCorreaPrieto) · [OSF](https://osf.io/skvn4/) · [LinkedIn](https://www.linkedin.com/in/pablocorreaprieto) · [Wikidata](https://www.wikidata.org/wiki/Q141533563)
 
 ---
 
